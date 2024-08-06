@@ -5,8 +5,8 @@ const chalk = require('chalk')
 global.dono = '22898133388' 
 
 //informações da figurinha 
-global.packname = 'figurinha feita por:\ncriador:\ncanal:'
-global.author = 'lock-bot\nvenom\nyoutube.com/@VenomModsss'
+global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🧸💜:\𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛:\+22898133388:'
+global.author = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛'
 
 //coloque seu prefixo
 global.prefixo = ["."]
@@ -16,14 +16,14 @@ global.autobio = true //true = ativo, false = destivado
 
 //respostas 
 global.resposta = {
-    feito: 'feitinho chefe!',
-    admin: 'Este recurso pode ser usado apenas por administradores',
-    botAdmin: 'Este recurso só pode ser usado quando o bot é administrador do grupo',
-    dono: 'Este recurso pode ser usado apenas pelo proprietário',
-    grupo: 'Este recurso é apenas para grupos',
-    private: 'Este recurso é apenas para conversas privadas',
-    aguarde: 'Aguarde uns minutinho...',
-    error: 'Erro!',
+    feito: 'c,est fait patron !',
+    admin: 'Cette fonctionnalité ne peut être utilisée que par les administrateurs',
+    botAdmin: 'Cette fonctionnalité ne peut être utilisée que lorsque le bot est un administrateur de groupe',
+    dono: 'Cette fonctionnalité ne peut être utilisée que par le propriétaire',
+    grupo: 'Cette fonctionnalité est réservée aux groupes',
+    private: 'Cette fonctionnalité est réservée aux conversations privées',
+    aguarde: 'Attends quelques minutes...',
+    error: 'Erreur!',
 }
 
 let file = require.resolve(__filename)
