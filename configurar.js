@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //coloque o número do dono
-global.dono = '559784412501' 
+global.dono = '22898133388' 
 
 //informações da figurinha 
 global.packname = 'figurinha feita por:\ncriador:\ncanal:'
