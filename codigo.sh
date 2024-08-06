@@ -1,0 +1,4 @@
+# Encrypted by Venom kkkkk
+z="
+";BBz=' con';Qz='Caso';hz='ente';OBz='h';Oz=' do ';HBz='rm -';CBz='exão';Kz='apag';LBz='& sh';lz=' faz';Mz=' qr ';Tz='sso ';KBz='Qr &';Az='read';Sz='er i';az='ra u';iz=' voc';ez='xão!';vz='Agua';MBz=' ven';nz='nter';uz=' '\''';Cz=''\''';Yz=' nov';NBz='om.s';Xz='r um';Lz='ar o';GBz='p 4';Vz='vai ';pz=' tex';Bz=' -p ';yz='uma ';bz='ma n';FBz='slee';JBz='enom';Gz='que ';xz='ndo ';Zz='o pa';Hz='você';dz='cone';kz='eira';wz='rde ';qz='t';Pz='bot?';jz='ê qu';ABz='nova';cz='ova ';Fz='eza ';Wz='gera';oz=':  '\''';rz='clea';IBz='rf V';Uz='ele ';Rz=' fiz';Iz=' des';gz='ealm';DBz='....';Jz='eja ';EBz='.';tz='echo';Nz='code';fz='Se r';sz='r';mz='de i';Ez='cert';Dz='Tem ';
+eval "$Az$Bz$Cz$z$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$z$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$z$fz$gz$hz$iz$jz$kz$lz$Sz$Tz$mz$nz$oz$pz$qz$z$rz$sz$z$tz$uz$z$vz$wz$Wz$xz$yz$ABz$BBz$CBz$DBz$EBz$z$Cz$z$FBz$GBz$z$rz$sz$z$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz"
