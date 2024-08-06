@@ -52,14 +52,31 @@ git clone (copie et passe le lien du repo que tu a fork avec tes modifications )
 cd lock-bot
 ```
 ```
-yarn install
+sh instalar.sh
 ```
 ```
 venom
 ```
 ```
-npm start
+venom
 ```
+```
+Appuie sur entrer deux fois !
+```
+```
+Dès que le chargement fini vous devez choisir la fonction "1" pour le pairing code et "2" pour le code qr
+```
+```
+À cet stade vous mettez votre numéro comme l'inscrit sur la console termux et link avec le code donner avec WhatsApp
+```
+```
+### NB: après si le bot s'arrête vous ne devriez que faire :
+```
+```
+cd lock-bot
+```
+```
+npm start
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 - If you want Command For 24/7 (might no work) 
 ```js
