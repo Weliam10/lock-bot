@@ -70,7 +70,6 @@ Dès que le chargement fini vous devez choisir la fonction "1" pour le pairing c
 ```
 ### NB: après si le bot s'arrête vous ne devriez que faire :
 ```
-```
 cd lock-bot
 ```
 ```
