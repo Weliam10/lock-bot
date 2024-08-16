@@ -2,11 +2,11 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //coloque o número do dono
-global.dono = '22898133388' 
+global.dono = '15165037779' 
 
 //informações da figurinha 
-global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🧸💜:\𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛:\+22898133388:'
-global.author = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛'
+global.packname = '🌹⃝⃞⃟𝙹𝚄𝙸𝙲𝙴𝄟✮͢≛⃝𝚆𝚁𝙻𝙳⃝⃞⃟🌹'
+global.author = '🌹⃝⃞⃟𝙹𝚄𝙸𝙲𝙴𝄟✮͢≛⃝𝚆𝚁𝙻𝙳⃝⃞⃟🌹'
 
 //coloque seu prefixo
 global.prefixo = ["."]
